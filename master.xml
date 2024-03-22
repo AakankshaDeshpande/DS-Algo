@@ -11,7 +11,7 @@
      <class name="testCases.TC_003_LoginDDT"/>
     
      
-     
+     <!-- Git comment -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
