@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.269">
+    <testcase classname="Registration Testing" name="Registration with Invalid Data" time="0.007">
+        <system-out><![CDATA[Given I am on the registration page.........................................passed
+When I fill in the registration form with invalid data sdet1234, sdet1, and sdet12.passed
+Then I should see an error-success message..................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Registration Testing" name="Registration with Invalid Data 2" time="0.002">
+        <system-out><![CDATA[Given I am on the registration page.........................................passed
+When I fill in the registration form with invalid data sdet12, , and numpay.passed
+Then I should see an error-success message..................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Registration Testing" name="Registration with Invalid Data 3" time="0">
+        <system-out><![CDATA[Given I am on the registration page.........................................passed
+When I fill in the registration form with invalid data , numpy@12345, and ..passed
+Then I should see an error-success message..................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Registration Testing" name="Registration with Invalid Data 4" time="0.007">
+        <system-out><![CDATA[Given I am on the registration page.........................................passed
+When I fill in the registration form with invalid data sdet1, 12345, and 12345.passed
+Then I should see an error-success message..................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

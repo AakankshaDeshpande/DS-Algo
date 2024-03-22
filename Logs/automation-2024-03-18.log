@@ -1,0 +1,49 @@
+21:00:33.060 [main] INFO  testCases.TC_001_RegistrationTest - registering User
+21:00:33.415 [main] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:00:33.429 [main] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:00:33.429 [main] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:00:33.431 [main] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:00:36.854 [main] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:00:36.982 [main] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:00:36.982 [main] INFO  testCases.TC_001_RegistrationTest - registering User
+21:00:37.423 [main] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:00:37.438 [main] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:00:37.438 [main] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:00:37.438 [main] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:02:34.198 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:02:34.369 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:02:34.369 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - registering User
+21:02:34.739 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:02:34.749 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:02:34.749 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:02:34.751 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:02:37.137 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:02:37.275 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:02:37.276 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - registering User
+21:02:37.687 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:02:37.700 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:02:37.700 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:02:37.700 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:02:57.041 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:02:57.176 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:02:57.176 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - registering User
+21:02:57.539 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:02:57.554 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:02:57.554 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:02:57.558 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:02:58.726 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:02:58.869 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:02:58.869 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - registering User
+21:02:59.375 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:02:59.398 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:02:59.399 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:02:59.399 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:03:54.705 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:03:55.065 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
+21:03:55.065 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - registering User
+21:03:55.588 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Clicked on registration button
+21:03:55.614 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Validating expected message...
+21:03:55.614 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - Inside if  ** Url matched***
+21:03:55.616 [TestNG-tests-1] INFO  testCases.TC_001_RegistrationTest - ***** Finished  TC_001_RegistrationTest ***** 
+21:03:56.941 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - ***** starting TC_001_RegistrationTest ***** 
+21:03:57.103 [TestNG-tests-2] INFO  testCases.TC_001_RegistrationTest - Clicked on registration link
